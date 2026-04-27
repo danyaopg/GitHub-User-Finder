@@ -12,7 +12,7 @@
 ## Использование API GitHub
 
 Приложение использует публичный API GitHub по адресу:
-``
+`https://api.github.com/users/{username}`
 
 API возвращает JSON с данными пользователя, включая:
 * логин (`login`);
