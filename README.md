@@ -1,6 +1,6 @@
 # GitHub User Finder
 
-**Автор:** [Новиков Данил]
+**Автор:** [Данил Новиков]
 
 ## Описание
 
@@ -12,7 +12,7 @@
 ## Использование API GitHub
 
 Приложение использует публичный API GitHub по адресу:
-`https://api.github.com/users/{username}`
+`https://github.com/danyaopg/GitHub-User-Finder`
 
 API возвращает JSON с данными пользователя, включая:
 * логин (`login`);
